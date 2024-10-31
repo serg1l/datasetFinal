@@ -1,0 +1,14 @@
+.redText{
+    color:red
+}
+.blueText{
+    color:blue
+}
+.container{
+    border: 1px solid black;
+    background-color: pink;
+}
+button{
+    width: 100%;
+    height: 100vh;
+}
